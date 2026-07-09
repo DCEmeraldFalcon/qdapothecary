@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":5760,"text":"Hello,"},{"start":6519,"text":"how can I help you?"},{"start":7760,"text":"I need to drop off this prescription."},{"start":10439,"text":"Sounds great."},{"start":11640,"text":"May I please have the patient's name and date of birth?"},{"start":14479,"text":"Steve Jacobs."},{"start":16389,"text":"Here's my driver's license."},{"start":18690,"text":"It is my date of birth and address."},{"start":21350,"text":"Thank you."},{"start":22520,"text":"Are there any medication allergies?"},{"start":24520,"text":"No allergies."},{"start":26309,"text":"Here's my insurance card as well."},{"start":28860,"text":"I'd like to pick this up after 3 o'clock."}]}]};
+    window.globalLoadJsAsset('story_content/6OsSZoue5tk_transcripts.js', JSON.stringify(data));
+})();
